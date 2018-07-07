@@ -22,6 +22,7 @@ public class CrimeListFragment extends Fragment {
      private RecyclerView mCrimeRecyclerView;
      private CrimeAdapter mAdapter;
      private ImageView mSolvedImageView;
+     
 
     @Nullable
     @Override
